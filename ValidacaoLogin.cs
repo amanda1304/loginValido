@@ -1,4 +1,4 @@
-﻿using System;
+﻿/*using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Runtime.InteropServices.WindowsRuntime;
@@ -14,4 +14,4 @@ namespace loginValido
             return usuario == "admin" && senha == "1234";
         }
     }
-}
+}*/
